@@ -2,7 +2,7 @@
 using OpenQA.Selenium.Chrome;
 using NUnit.Framework;
 
-namespace selenium_dotnet.tests
+namespace SeleniumDotNet.Tests
 {
     // Marking this class as a test fixture in NUnit
     [TestFixture]
